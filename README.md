@@ -1,7 +1,7 @@
 # Tutorial para los módulos `PoissonGeometry` y `NumPoissonGeometry`
 Tutorial para aprender a usar los modulos PoissonGeometry y NumericalPoissonGeometry de Geometría de Poisson Computacional, presentado en la Congreso Nacional Virtual de la Sociedad Matemática Mexicana en Noviembre de 2020.
 
- * [Introudución a Python](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/1_Introducci%C3%B3n_a_Python.ipynb)
+ * [Introducción a Python](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/1_Introducci%C3%B3n_a_Python.ipynb)
      
  * [Tutorial](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/CNVSMM_2020.ipynb) 
  
