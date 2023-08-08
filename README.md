@@ -9,6 +9,8 @@ Tutorial para aprender a usar los modulos PoissonGeometry y NumericalPoissonGeom
  
  * [Video 2](https://www.youtube.com/watch?v=PtTaK_Qef54)
 
+ * [Presentación](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/CompPoiss-CNVSMM_2020.pdf)
+
 ____
 # Info
 
