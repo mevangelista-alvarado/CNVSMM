@@ -33,6 +33,6 @@ ______
 
 # Autores 
  
- * Pablo Suárez-Serrato [@psuarezserrato](https://github.com/psuarezserrato) y 
- * José Ruíz-Pantaleón [@jcrpanta](https://github.com/jcrpanta)
+ * Pablo Suárez-Serrato [@psuarezserrato](https://github.com/psuarezserrato), 
+ * José Ruíz-Pantaleón [@jcrpanta](https://github.com/jcrpanta), y 
  * Miguel Evangelista-Alvarado [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
