@@ -4,8 +4,10 @@ Tutorial para aprender a usar los módulos PoissonGeometry y NumericalPoissonGeo
 
  * [Introducción a Python](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/1_Introducci%C3%B3n_a_Python.ipynb)
      
- * [Tutorial](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/CNVSMM_2020.ipynb) 
- 
+ * [Tutorial Original](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/CNVSMM_2020.ipynb) 
+
+ * [Tutorial Actulizado](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/Update_CNVSMM_2020.ipynb)
+   
  * [Video 1](https://www.youtube.com/watch?v=27nBbz8BbL0) 
  
  * [Video 2](https://www.youtube.com/watch?v=PtTaK_Qef54)
