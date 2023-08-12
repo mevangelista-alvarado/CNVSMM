@@ -30,7 +30,7 @@ Desarrollamos un módulo de cómputo simbólico disponible en [poissongeometry](
 
 En las dos sesiones daremos a conocer una extensión para cómputo numérico de nuestro módulo de Python. Nos centraremos en dos ejemplos, relevantes en mecánica y planeación de movimientos en robótica; las estructuras de Poisson asociadas a las álgebras de Lie SO(3) y SL(2). 
 
-Pueden consultar esta introducción a Python [aquí](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/1_Introducci%C3%B3n_a_Python.ipynb) que hemos usado en cursos de primer semestre de la carrera de Matemáticas en la UNAM , si quieren ir aprendiendo más sobre este amistoso lenguaje de programación. Si ya usan Python, pueden instalar el módulo ejecutando " pip install poissongeometry ".
+Pueden consultar esta introducción a Python [aquí](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/1_Introducci%C3%B3n_a_Python.ipynb) que hemos usado en cursos de primer semestre de la carrera de Matemáticas en la UNAM , si quieren ir aprendiendo más sobre este amistoso lenguaje de programación. Si ya usan Python, pueden instalar el módulo ejecutando `pip install poissongeometry`.
 
 ______ 
 
